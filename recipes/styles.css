@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+.foodim{
+    text-align:center;
+}
+html{
+    background-color:dimgray;
+    font-family:'Times New Roman', Times, serif;
+}
+ol,ul{
+    background:white;
+    border-color:black;
+    border-style:double;
+}
+ul{
+    margin: 25px;
+}
+li{
+    margin-bottom: 20px;
+}
+.home{
+    font-size:20px;
+    color: white;
+}
