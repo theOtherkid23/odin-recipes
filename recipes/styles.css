@@ -1,3 +1,4 @@
+
 h1{
     text-align: center;
 }
@@ -10,14 +11,16 @@ html{
 }
 ol,ul{
     background:white;
-    border-color:black;
-    border-style:double;
+    border-style: groove;
+    border-color: black;
 }
 ul{
     margin: 25px;
+    width: 8em;
+
 }
 li{
-    margin-bottom: 20px;
+    padding: 10px;
 }
 .home{
     font-size:20px;
