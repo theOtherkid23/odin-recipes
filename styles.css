@@ -4,43 +4,19 @@ h1{
 html{
     background-color:dimgray;
 }
-li{
-    font-size:20px;
-    color:white;
-}
-.button1 .button2 .button3{
-    text-align: center;
-}
-#pbb{
-    text-align: center;
-    display:block;
-    border: solid 4px black;
-    background-color: white;
-    margin: 2em;
-    margin-left:8em;
-    margin-right:8em;
+div {
     padding: 5em;
-    font-size:20px;
+    text-align:center;
+    margin-bottom: 20px;
+    margin-left:5em;
+    margin-right: 5em;
 }
-#psb{
-    text-align: center;
-    display:block;
-    border: solid 4px black;
-    background-color:beige;
-    margin: 2em;
-    margin-left:8em;
-    margin-right:8em;
-    padding: 5em;
-    font-size:20px;
+.pbj{
+    background-color:white;
 }
-#frb{
-    text-align: center;
-    display:block;
-    border: solid 4px black;
-    background-color:cornsilk;
-    margin: 2em;
-    margin-left:8em;
-    margin-right:8em;
-    padding: 5em;
-    font-size:20px;
+.cps{
+    background-color: beige;
+}
+.friedrice{
+    background-color:blanchedalmond;
 }
